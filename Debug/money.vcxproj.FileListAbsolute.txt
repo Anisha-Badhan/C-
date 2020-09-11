@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\C++\Assignment\chapter_1\money\Debug\money.exe
+C:\Users\User\Desktop\C++\Assignment\chapter_1\money\Debug\money.pdb
